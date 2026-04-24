@@ -21,8 +21,7 @@ export const NavBar = () => {
             <div className="navbar-top">
                 <div className="navbar-brand" >
                     <span>📓</span>
-                    <Link to="/" className="brand-link"> Quran </Link>
-                    <Link to="/" className="brand-link"> Player</Link>
+                    <Link to="/" className="brand-link"> Quran Player</Link>
                 </div>
 
                 <button
